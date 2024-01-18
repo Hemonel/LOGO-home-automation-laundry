@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Page height="3000" width="1080">
+    <Components>
+        <Component class="com.siemens.logo.udwp.editor.component.PageComponent" id="main" name="Page">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Page"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="main"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="0"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="0@-@0"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="1080@-@3000"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="3000@-@3000"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$PageBackgroundImage" id="PROPERTY_PAGE_BG_IMAGE" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\Silver.png@-@2A2EAAFE.png@-@@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="47a097e10b38e562b29a" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="47a097e10b38e562b29a"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="1"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@2657"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="4253b776e152116a473e" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4253b776e152116a473e"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="2"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@2338"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="46cdbe40d98e680aea3e" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="46cdbe40d98e680aea3e"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="3"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@2005"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="4b54aeabc7cf80eb1abd" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4b54aeabc7cf80eb1abd"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="4"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@1678"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="440d988e717731ea1153" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="440d988e717731ea1153"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="5"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@1346"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="41528f743dd2b2990854" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="41528f743dd2b2990854"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="6"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@1018"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="441c9fb72bcf3bced18e" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="441c9fb72bcf3bced18e"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="7"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@685"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="43fba030ba5d09cdb7a0" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="43fba030ba5d09cdb7a0"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="8"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@357"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@307"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="4b15bcd6e5e23e7fe35d" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4b15bcd6e5e23e7fe35d"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="9"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="62@-@200"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="957@-@144"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\Colors\White.png@-@5F55CA3B.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="48b08e4473b4e84c2a64" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="48b08e4473b4e84c2a64"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="10"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@371"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1415@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Toda la lavandería (kW)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;faa17f95-c717-436e-9bd0-f66c25c8b7c7&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;General&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;6&quot;,&quot;realvalue&quot;:&quot;48&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="10"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.TextComponent" id="4b208ddd5e534d524a2c" name="Text">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Text"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4b208ddd5e534d524a2c"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="11"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="249@-@236"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="582@-@73"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1415@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_Font" value="Arial@-@1@-@30"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TextColor" value="0@-@0@-@0"/>
+            <ComponentProperty class="BasicColorProperty$BackgroundColorProperty" id="PROPERTY_backgroundColor" value="255@-@255@-@255"/>
+            <ComponentProperty class="BorderProperty$NoFill" id="PROPERTY_NoFill" value="false"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TEXT_ALIGN" value="1"/>
+            <ComponentProperty class="TextStyleProperty$TextValue" id="PROPERTY_Text" value="Graficas de potencia en el tiempo"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="4cc3959ae65ae75bdac9" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4cc3959ae65ae75bdac9"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="12"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@699"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value=" Lavadoras 1 y 2 (W)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;25290272-64af-4f9b-b824-93f5d876ed50&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Lavadoras 1 y 2&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;0&quot;,&quot;realvalue&quot;:&quot;0&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="20"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="455abe281bb649a2e585" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="455abe281bb649a2e585"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="13"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@1032"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Lavadoras 3 y 4 (W)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;6e594557-25fb-4e40-b2bd-bd38d2d92335&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Secadora 3&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;12&quot;,&quot;realvalue&quot;:&quot;96&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="46f39b1b551ef4df617b" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="46f39b1b551ef4df617b"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="14"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@1360"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Lavadoras 5 y 6 (W)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;87d937d1-1ad5-4767-8cad-789fb020346b&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Lavadoras 5 y 6&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;4&quot;,&quot;realvalue&quot;:&quot;32&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="4d0e886cc85384d90afb" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4d0e886cc85384d90afb"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="15"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@1692"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Secadora 1 (kW)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;0abaf5f0-762d-46af-a7d9-30a3ba1ef513&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Secadora 1&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;8&quot;,&quot;realvalue&quot;:&quot;64&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="42248d9a0707f04c4660" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="42248d9a0707f04c4660"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="16"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@2019"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Secadora 2 (kW)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;6c9f7906-9489-486c-8f75-fbd90407e657&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Secadora 2&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;10&quot;,&quot;realvalue&quot;:&quot;80&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="44f6bdae0251a1ca6533" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="44f6bdae0251a1ca6533"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="17"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@2352"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Secadora 3 (kW)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;6e594557-25fb-4e40-b2bd-bd38d2d92335&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Secadora 3&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;12&quot;,&quot;realvalue&quot;:&quot;96&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.customize.BasicCustomizeComponent" id="4744bafd20a7be75ae42" name="TrendView">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="TrendView"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="4744bafd20a7be75ae42"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="18"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="132@-@2671"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="816@-@279"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1361@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$OneLineNormalTextValue" id="PROPERTY_TREND_TITLE_TEXT_VALUE" value="Secadora 4 (kW)"/>
+            <ComponentProperty class="TextStyleProperty$FontStyle" id="PROPERTY_TREND_TITLE_FONT" value="Arial@-@0@-@25"/>
+            <ComponentProperty class="TextStyleProperty$TextColor" id="PROPERTY_TREND_TITLE_FONT_COLOR" value="0@-@0@-@0"/>
+            <ComponentProperty class="TextStyleProperty$TextAlgin" id="PROPERTY_TREND_TITLE_ALIGN" value="0"/>
+            <ComponentProperty class="AnalogFormatProperty$IntervalTimeProperty" id="PROPERTY_INTERVAL_TIME" value="5"/>
+            <ComponentProperty class="TrendViewTagsProperty" id="PROPERTY_TREND_VIEW_TAGS" value="[{&quot;id&quot;:&quot;f29b37f0-ee2b-4271-a163-6601c2534563&quot;,&quot;deviceName&quot;:&quot;Local Device&quot;,&quot;name&quot;:&quot;Secadora 4&quot;,&quot;blockType&quot;:{&quot;value&quot;:&quot;VW&quot;,&quot;realvalue&quot;:&quot;132&quot;},&quot;blockNum&quot;:{&quot;value&quot;:&quot;14&quot;,&quot;realvalue&quot;:&quot;112&quot;},&quot;type&quot;:{&quot;value&quot;:&quot;Word&quot;,&quot;realvalue&quot;:&quot;4&quot;},&quot;length&quot;:{&quot;value&quot;:&quot;1&quot;,&quot;realvalue&quot;:&quot;1&quot;},&quot;color&quot;:{&quot;value&quot;:&quot;auto&quot;,&quot;realvalue&quot;:&quot;auto&quot;},&quot;blockFormat&quot;:&quot;Unsigned&quot;,&quot;decimalPlaces&quot;:&quot;0&quot;}]"/>
+            <ComponentProperty class="TrendViewXAxisTotalStepSizeProperty" id="PROPERTY_TREND_VIEW_STEPSIZE" value="5"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="40fc8eafef3187f90eef" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="40fc8eafef3187f90eef"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="19"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="0@-@0"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="724@-@187"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\My Graph\lavanderia logo 2.png@-@7C94ED1D.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="42849727b6b1ff64e32f" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="42849727b6b1ff64e32f"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="20"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="356@-@0"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="724@-@187"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\My Graph\lavanderia logo 2.png@-@7C94ED1D.png@-@Default.png@-@null"/>
+        </Component>
+        <Component class="com.siemens.logo.udwp.editor.component.ImageComponent" id="46829bd7128d3bd85918" name="Image">
+            <ComponentProperty class="NameProperty" id="PROPERTY_Name" value="Image"/>
+            <ComponentProperty class="BasicProperty$IDProperty" id="PROPERTY_Component_Id" value="46829bd7128d3bd85918"/>
+            <ComponentProperty class="BasicProperty$ZIndex" id="PROPERTY_ZIndex" value="21"/>
+            <ComponentProperty class="BoundsProperty$Location" id="PROPERTY_Location" value="26@-@0"/>
+            <ComponentProperty class="BoundsProperty$Size" id="PROPERTY_Size" value="1029@-@187"/>
+            <ComponentProperty class="BasicProperty$Degree" id="PROPERTY_Degree" value="0"/>
+            <ComponentProperty class="BoundsProperty$MaxSize" id="PROPERTY_MAX_SIZE" value="1030@-@2950"/>
+            <ComponentProperty class="BoundsProperty$MinSize" id="PROPERTY_MIN_SIZE" value="50@-@50"/>
+            <ComponentProperty class="BoundsProperty$MaxPosition" id="PROPERTY_MAX_POSITION" value="1505@-@2350"/>
+            <ComponentProperty class="BoundsProperty$MinPosition" id="PROPERTY_MIN_POSITION" value="0@-@0"/>
+            <ComponentProperty class="BasicProperty$BackgroundImage" id="PROPERTY_Image" value="C:\Program Files\lwe\lwe\res\Graph Library\My Graph\lavanderia logo 2.png@-@7C94ED1D.png@-@Default.png@-@null"/>
+        </Component>
+    </Components>
+</Page>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TagRef>
+    <PageRefs>
+        <PageVm page="page_2">
+            <TagComp compId="4198b3d36f16cd2c6467" tagId="6e594557-25fb-4e40-b2bd-bd38d2d92335"/>
+            <TagComp compId="4881bfda906258b0d303" tagId="25290272-64af-4f9b-b824-93f5d876ed50"/>
+            <TagComp compId="4129a506cedc34c1ca76" tagId="6c9f7906-9489-486c-8f75-fbd90407e657"/>
+            <TagComp compId="44338d5954e9bf69051a" tagId="0abaf5f0-762d-46af-a7d9-30a3ba1ef513"/>
+            <TagComp compId="413c9e8d75f2141467df" tagId="03a7fcc9-de16-42f3-ae04-c2284a8b1b71"/>
+            <TagComp compId="49f080f7324b59806760" tagId="87d937d1-1ad5-4767-8cad-789fb020346b"/>
+            <TagComp compId="4f059a421e6c1b809d8b" tagId="f29b37f0-ee2b-4271-a163-6601c2534563"/>
+        </PageVm>
+        <PageVm page="page_1">
+            <TagComp compId="46f39b1b551ef4df617b" tagId="87d937d1-1ad5-4767-8cad-789fb020346b"/>
+            <TagComp compId="44f6bdae0251a1ca6533" tagId="6e594557-25fb-4e40-b2bd-bd38d2d92335"/>
+            <TagComp compId="455abe281bb649a2e585" tagId="6e594557-25fb-4e40-b2bd-bd38d2d92335"/>
+            <TagComp compId="42248d9a0707f04c4660" tagId="6c9f7906-9489-486c-8f75-fbd90407e657"/>
+            <TagComp compId="4744bafd20a7be75ae42" tagId="f29b37f0-ee2b-4271-a163-6601c2534563"/>
+            <TagComp compId="4d0e886cc85384d90afb" tagId="0abaf5f0-762d-46af-a7d9-30a3ba1ef513"/>
+            <TagComp compId="4cc3959ae65ae75bdac9" tagId="25290272-64af-4f9b-b824-93f5d876ed50"/>
+            <TagComp compId="48b08e4473b4e84c2a64" tagId="faa17f95-c717-436e-9bd0-f66c25c8b7c7"/>
+        </PageVm>
+        <PageVm page="main">
+            <TagComp compId="4d6bbda31b2b542a4ad7" tagId="faa17f95-c717-436e-9bd0-f66c25c8b7c7"/>
+        </PageVm>
+    </PageRefs>
+</TagRef>

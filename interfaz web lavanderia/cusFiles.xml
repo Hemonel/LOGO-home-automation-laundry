@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomizeFiles>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\rainbow\comp.xml" count="1">
+        <ComponentIDs>
+            <ComponentID>4d6bbda31b2b542a4ad7</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\rainbow.js</File>
+        </Files>
+    </CustomizeComponent>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\analogValue\comp.xml" count="7">
+        <ComponentIDs>
+            <ComponentID>413c9e8d75f2141467df</ComponentID>
+            <ComponentID>44338d5954e9bf69051a</ComponentID>
+            <ComponentID>4881bfda906258b0d303</ComponentID>
+            <ComponentID>49f080f7324b59806760</ComponentID>
+            <ComponentID>4129a506cedc34c1ca76</ComponentID>
+            <ComponentID>4198b3d36f16cd2c6467</ComponentID>
+            <ComponentID>4f059a421e6c1b809d8b</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\anavalue.js</File>
+        </Files>
+    </CustomizeComponent>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\trendView\comp.xml" count="8">
+        <ComponentIDs>
+            <ComponentID>48b08e4473b4e84c2a64</ComponentID>
+            <ComponentID>4cc3959ae65ae75bdac9</ComponentID>
+            <ComponentID>455abe281bb649a2e585</ComponentID>
+            <ComponentID>46f39b1b551ef4df617b</ComponentID>
+            <ComponentID>4d0e886cc85384d90afb</ComponentID>
+            <ComponentID>42248d9a0707f04c4660</ComponentID>
+            <ComponentID>44f6bdae0251a1ca6533</ComponentID>
+            <ComponentID>4744bafd20a7be75ae42</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\trend.js</File>
+        </Files>
+    </CustomizeComponent>
+</CustomizeFiles>

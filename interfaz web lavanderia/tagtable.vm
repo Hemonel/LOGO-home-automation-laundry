@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tVariableTable>
+    <variables>
+        <id>25290272-64af-4f9b-b824-93f5d876ed50</id>
+        <name>Lavadoras 1 y 2</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="0">0</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>03a7fcc9-de16-42f3-ae04-c2284a8b1b71</id>
+        <name>Lavadoras 3 y 4</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="16">2</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>87d937d1-1ad5-4767-8cad-789fb020346b</id>
+        <name>Lavadoras 5 y 6</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="32">4</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>0abaf5f0-762d-46af-a7d9-30a3ba1ef513</id>
+        <name>Secadora 1</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="64">8</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>6c9f7906-9489-486c-8f75-fbd90407e657</id>
+        <name>Secadora 2</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="80">10</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>6e594557-25fb-4e40-b2bd-bd38d2d92335</id>
+        <name>Secadora 3</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="96">12</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>f29b37f0-ee2b-4271-a163-6601c2534563</id>
+        <name>Secadora 4</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="112">14</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>faa17f95-c717-436e-9bd0-f66c25c8b7c7</id>
+        <name>General</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="132">VW</blockType>
+        <blockNum realvalue="48">6</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+</tVariableTable>
